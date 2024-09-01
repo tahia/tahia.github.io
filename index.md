@@ -8,9 +8,9 @@ description: N/A
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/taslima_cv.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/Taslima_Haque_CV.pdf">cv</a></li>
           <li><a href="https://github.com/tahia">github</a></li>
-          <li><a href="https://kbroman.org/blog">blog</a></li>
+          <li><a href="">blog</a></li>
       </ul>
   </div>
 </div>
