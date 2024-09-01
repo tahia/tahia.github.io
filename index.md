@@ -17,7 +17,7 @@ description: N/A
 
 I'm a is Postdoctoral Research Fellow at the
 [Department of Ecology and Evolutionionary Biology](https://lsa.umich.edu/eeb)
-at the University of Michigan, Ann arbor working with [Wittkopp Lab] (https://sites.lsa.umich.edu/wittkopp-lab/)
+at the University of Michigan, Ann arbor working with [Wittkopp Lab](https://sites.lsa.umich.edu/wittkopp-lab/)
 
 Education/Degree:
 
