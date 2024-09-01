@@ -21,9 +21,9 @@ at the University of Michigan, Ann arbor working with [Wittkopp Lab](https://sit
 
 Education/Degree:
 
-Ph.D. in Plant Biology, University of Texas at Austin
-M.Sc. in Biochemistry and Molecular Biology, University of Dhaka
-B.Sc. in Biochemistry and Molecular Biology, University of Dhaka
+Ph.D. in Plant Biology, University of Texas at Austin\
+M.Sc. in Biochemistry and Molecular Biology, University of Dhaka\
+B.Sc. in Biochemistry and Molecular Biology, University of Dhaka\
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/taslima_cv.pdf)<br/>
 [orcid](https://orcid.org): [0000-0002-0578-5164](https://orcid.org/0000-0002-0578-5164)<br/>
