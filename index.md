@@ -15,12 +15,6 @@ description: N/A
   </div>
 </div>
 
-<ul>
-{% for page in site.data.menu.pages %}
-    <li>{{ page.name }}</li>
-{% end for %}
-
-</ul>
 
 In a broad sense, my interest lies in studying how local populations adapt across different ecological clines and variable environments. At the molecular level, I focus on studying gene expression divergence and how cis-and trans-regulation can play key roles on local adaptation. In my dissertation research, I combined various quantitative genetics, population genomics and functional genomic approces to study the genetics and molecular mechanisms underlying phenotypic divergence in Panicum grasses. Currently I am working as a Postdoctoral Research Fellow at the
 [Department of Ecology and Evolutionionary Biology](https://lsa.umich.edu/eeb)
