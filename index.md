@@ -8,6 +8,7 @@ description: N/A
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
+          <li><a href="{{ BASE_PATH }}/Taslima_Haque_CV.pdf">CV</a></li>
           <li><a href="https://github.com/tahia">github</a></li>
           <li><a href="">blog</a></li>
       </ul>
