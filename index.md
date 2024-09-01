@@ -10,14 +10,14 @@ description: N/A
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/Taslima_Haque_CV.pdf">CV</a></li>
           <li><a href="https://github.com/tahia">github</a></li>
-          <li><a href="">blog</a></li>
+          <li><a href="[Research](pages/Research.html)">Research</a></li>
       </ul>
   </div>
 </div>
 
 I'm a is Postdoctoral Research Fellow at the
 [Department of Ecology and Evolutionionary Biology](https://lsa.umich.edu/eeb)
-, the University of Michigan, Ann Arbor working with [Wittkopp Lab](https://sites.lsa.umich.edu/wittkopp-lab/). Our lab investigates the genetic basis of phenotypic evolution. In a broad sense, my interest lies in studying how local populations adapt across different ecological clines and variable environments. At the molecular level, I focus on studying gene expression divergence and how cis-and trans-regulation can play key roles on local adaptation. 
+, University of Michigan, Ann Arbor working with [Wittkopp Lab](https://sites.lsa.umich.edu/wittkopp-lab/). Our lab investigates the genetic basis of phenotypic evolution. In a broad sense, my interest lies in studying how local populations adapt across different ecological clines and variable environments. At the molecular level, I focus on studying gene expression divergence and how cis-and trans-regulation can play key roles on local adaptation. 
 
 Education/Degree:
 
