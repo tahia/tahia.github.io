@@ -5,6 +5,16 @@ tagline: Who am I
 description: N/A
 ---
 
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="{{ BASE_PATH }}/taslima_cv.pdf">cv</a></li>
+          <li><a href="https://github.com/tahia">github</a></li>
+          <li><a href="https://kbroman.org/blog">blog</a></li>
+      </ul>
+  </div>
+</div>
+
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
