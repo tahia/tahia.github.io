@@ -32,14 +32,6 @@ B.Sc. in Biochemistry and Molecular Biology, University of Dhaka
 she/her
 
 
-- [Overview](pages/overview.html)
-- [Research](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Projects](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
-
 
 
 
