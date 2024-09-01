@@ -8,7 +8,6 @@ description: N/A
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/Taslima_Haque_CV.pdf">cv</a></li>
           <li><a href="https://github.com/tahia">github</a></li>
           <li><a href="">blog</a></li>
       </ul>
@@ -17,7 +16,9 @@ description: N/A
 
 I'm a is Postdoctoral Research Fellow at the
 [Department of Ecology and Evolutionionary Biology](https://lsa.umich.edu/eeb)
-at the University of Michigan, Ann arbor working with [Wittkopp Lab](https://sites.lsa.umich.edu/wittkopp-lab/)
+at the University of Michigan, Ann arbor working with [Wittkopp Lab](https://sites.lsa.umich.edu/wittkopp-lab/)\
+
+In a broad sense, I am interested in studying how local populations adapt across different ecological clines and variable environments. At the molecular level, I focus on studying gene expression divergence and how cis-and trans-regulation can play key roles on local adaptation. 
 
 Education/Degree:
 
