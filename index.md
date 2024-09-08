@@ -20,7 +20,7 @@ In a broad sense, my interest lies in studying how local populations adapt acros
 [Department of Ecology and Evolutionionary Biology](https://lsa.umich.edu/eeb)
 , University of Michigan, Ann Arbor with [Wittkopp Lab](https://sites.lsa.umich.edu/wittkopp-lab/). In general, our lab investigates the genetic basis of phenotypic evolution. In Wittkopp Lab by leveraging from the existing resources of natural and artificial regulatory variants in yeast, I study the effects of these mutations on expression plasticity and fitness in response to environmental heterogeneity.   
 
-Education/Degree:
+__Education/Degree:__
 
 Ph.D. in Plant Biology, University of Texas at Austin\
 M.Sc. in Biochemistry and Molecular Biology, University of Dhaka\
