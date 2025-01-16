@@ -34,7 +34,7 @@ expression plasticity and fitness in response to environmental heterogeneity.
 
 
 
-Other than doing science, I also love sketching, reciting poetry, and hicking.
+Other than doing science, I also love sketching, reciting poetry, and hicking. Here are some of my self-sketches: 
 
 <br>
 
