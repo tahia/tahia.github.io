@@ -40,7 +40,7 @@ Other than doing science, I also love sketching, reciting poetry, and hicking. H
 
 <p float="center">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="/images/people/SelfPotrait.JPG" width="10%" height="10%" />
+<img src="/images/people/SelfPotrait.JPG" width="10%" height="10%" class="center" />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="/images/people/SelfTrace.jpg" width="10%" height="10%" />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
