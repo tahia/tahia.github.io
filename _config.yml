@@ -1,0 +1,60 @@
+# With Jekyll
+
+title: Taslima Haque
+name: Taslima Haque
+email: tahiadu@gmail.com
+description: >- 
+  This is my personal site describing my academic and other inretests.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://tahia.github.io" # the base hostname & protocol for your site
+permalink:          /:year/:month/:day/:title.html
+twitter_username: haque_taslima
+github_username:  tahia
+
+# Build settings
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+#Navigation Panel
+nav:
+  - name:           "Home"
+    href:           "/"
+  - name:           "About"
+    href:           "/about"
+  - name:           "Research"
+    href:           "/research"
+  - name:           "Publications"
+    href:           "/publication"
+  - name:           "Teaching"
+    href:            "/teaching"
+
+
+#theme: minima
+#plugins:
+#  - jekyll-feed
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+
