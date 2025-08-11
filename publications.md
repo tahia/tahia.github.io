@@ -3,7 +3,7 @@ title: Publications
 permalink: /publication/
 ---
 
-Pastor-Cantizano N, Angelos ER., Ruberti C, Jiang T, Weng X, Regan BC, __Haque T__,Juenger TE, Brandizzi F.
+Pastor-Cantizano N, Angelos ER., Ruberti C, Jiang T, Weng X, Regan BC, __Haque T__, Juenger TE, Brandizzi F.
 _Programmed cell death regulator BAP2 is required for IRE1-mediated unfolded protein response in Arabidopsis._ 
 Nature Communication, 15:5804 (2024). [DOI](https://doi.org/10.1038/s41467-024-50105-6)
 
