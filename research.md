@@ -21,6 +21,17 @@ The variation in the body color of Drosophila americana population across the ge
 
 <br>
 
+<br>
+#### __Environmental impacts on gene expression noise and its relationship with fitness__
+<br>
+<!--
+<img class='img-responsive center-block' src="/images/research/GenBodyColorScheme.jpg" width="75%" height="75%" />
+-->
+<br>
+Molecular trait variation can arise due to stochastic biological events. Such stochastic events can cause genetically-identical organisms grown in the same environment to vary in their gene expression, and this variation in gene expression is known as expression noise. This expression noise is a heritable trait that can impact fitness, and can evolve in natural population.  Prior work has shown that expression noise for the Saccharomyces cerevisiae TDH3 gene can be beneficial or deleterious, depending on its mean expression level and its relative position in the expression-fitness landscape (Duveau et al.,2018). However, the shape of this expression-fitness landscape can vary among different environments (Siddiq et al. 2024). In this project, we aim to examine how environmental changes impact expression noise and its relationship to fitness.   
+
+<br>
+
 ### __Dissertation Works__
 
 <br>
