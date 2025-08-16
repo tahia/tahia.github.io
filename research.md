@@ -13,15 +13,6 @@ permalink: /research/
 Regulatory mutations contribute significantly towards gene expression plasticity in response to enviornment and can be adaptive. The effect of these mutations on focal gene can be cis- or trans- acting.  Numerous studies have reported excess of cis-reulatory divergence between species (interspecies) while relatively high abundance of tran-regulatory variation within the species (intraspecies).  One explanation for the accumulation of cis-regulatory divergence over long evolutionary time is that these variants are less plietropic and therefore would be less constrained to evolve under positive selection.  Whereas, being pleiotropic, most trans-variants would most likely to be under purifying selection. Nevertheless, in some species cis-variants account for a greater proportion of intraspecies gene expression variation. However, the role of enviornmental heterogeneity on different genetic architectures contributing expression variation and plasticity is less explored which can play a role in the relative abundance of these different architectures. In this project we aim to measure the effects of cis- and trans- regulatory mutation on expression plasticity and the relative pleiotropic effect of trans- mutations using the TDH3 reporter system. 
 
 <br>
-#### __Detecting genetic basis of fly body color variation__
-<br>
-<img class='img-responsive center-block' src="/images/research/GenBodyColorScheme.jpg" width="75%" height="75%" />
-<br>
-The variation in the body color of Drosophila americana population across the geographical range has long been considered as a consequence of local adaptation to its native habitats. Body color pigmentation in flies is a well-studied trait and the key regulatory genes for pigmentation metabolism are well characterized. D. novamexicana, a closer sister species of D. americana has much lighter color pigmentation. Earlier studied reported the divergence of two classical pigmentation gene: tan and ebony expression regulation can explain ~87% of pigmentation variation between these species (Wittkopp et al., 2009).  However,  while inferring the genetic association of pigmentation focusing on these candidate genesin a study to failed to detect any allelic variant which could explain this body color variation in americana population (Sramkoski et al., 2020). This led us to hypothesize that there could be more genetic loci and allelic variants which might contribute to this phenotypic variation. Therefore, we designed a genome-wide mapping approach to identify the genetic loci associated with this trait. 
-
-<br>
-
-<br>
 #### __Environmental impacts on gene expression noise and its relationship with fitness__
 <br>
 <!--
@@ -31,6 +22,14 @@ The variation in the body color of Drosophila americana population across the ge
 Molecular trait variation can arise due to stochastic biological events. Such stochastic events can cause genetically-identical organisms grown in the same environment to vary in their gene expression, and this variation in gene expression is known as expression noise. This expression noise is a heritable trait that can impact fitness, and can evolve in natural population.  Prior work has shown that expression noise for the Saccharomyces cerevisiae TDH3 gene can be beneficial or deleterious, depending on its mean expression level and its relative position in the expression-fitness landscape (Duveau et al.,2018). However, the shape of this expression-fitness landscape can vary among different environments (Siddiq et al. 2024). In this project, we aim to examine how environmental changes impact expression noise and its relationship to fitness.   
 
 <br>
+#### __Detecting genetic basis of fly body color variation__
+<br>
+<img class='img-responsive center-block' src="/images/research/GenBodyColorScheme.jpg" width="75%" height="75%" />
+<br>
+The variation in the body color of Drosophila americana population across the geographical range has long been considered as a consequence of local adaptation to its native habitats. Body color pigmentation in flies is a well-studied trait and the key regulatory genes for pigmentation metabolism are well characterized. D. novamexicana, a closer sister species of D. americana has much lighter color pigmentation. Earlier studied reported the divergence of two classical pigmentation gene: tan and ebony expression regulation can explain ~87% of pigmentation variation between these species (Wittkopp et al., 2009).  However,  while inferring the genetic association of pigmentation focusing on these candidate genesin a study to failed to detect any allelic variant which could explain this body color variation in americana population (Sramkoski et al., 2020). This led us to hypothesize that there could be more genetic loci and allelic variants which might contribute to this phenotypic variation. Therefore, we designed a genome-wide mapping approach to identify the genetic loci associated with this trait. 
+
+<br>
+
 
 ### __Dissertation Works__
 
